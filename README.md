@@ -1,2 +1,2 @@
 # Siege-Game
-Original 2-D Siege Game
+I was required to design and implement in Processing (a Java IDE), my own original 2-D Siege game, where the player character can move horizontally across the top of the screen (arrow cluster key controls), dropping objects on to attackers. Attackers will be moving up the screen slowly (and perhaps left and right movement as well). I also implemented an ArrayList of attacker objects and an animated sequence of images for the attacker objects (that made them appear to be climbing).
